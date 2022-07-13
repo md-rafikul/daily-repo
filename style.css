@@ -1,0 +1,63 @@
+h1 {
+    font-size: 65px;
+    text-align: center;
+    color: forestgreen;
+}
+
+p {
+    color: red;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    background: tomato;
+    border-radius: 5px;
+    margin-top: 20PX;
+    padding: 18px 20px;
+}
+
+[target="_blank"] {
+    width: 160px;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.first {
+    position: absolute;
+    width: 100%;
+    height: 669px;
+    background-image: linear-gradient(to top, rgb(0 0 0 / 87%), rgb(20 0 0 / 13%));
+}
+
+header {
+    height: 669px;
+    background-image: url("Bangladesh.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100% 669px;
+}
+
+header-content {
+    width: 826px;
+    height: 320px;
+    margin: 0 auto;
+    align-items: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%)
+}
+
+.header-content p {
+    color: #fff;
+    text-align: center;
+    margin: 20px 0 40px;
+    padding: 0 59px;
+
+}
