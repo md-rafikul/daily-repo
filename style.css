@@ -129,3 +129,17 @@ h3 {
 
 
 }
+
+.other-amount {
+    margin-top: 80px;
+    color: #cdcdcd;
+    margin-bottom: 13px;
+
+}
+
+.other-amount input {
+    width: 688px;
+    text-align: center;
+
+
+}
