@@ -140,6 +140,10 @@ h3 {
 .other-amount input {
     width: 688px;
     text-align: center;
+}
 
+.diver {
 
+    border: 1px solid #dadada;
+    margin-top: -10px;
 }
