@@ -61,3 +61,71 @@ header-content {
     padding: 0 59px;
 
 }
+
+h2 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+h3 {
+    color: #121212;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.empty-space {
+    width: 826px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.donation-content-area {
+    padding: 0 100px;
+
+
+}
+
+.donation-header {
+    padding: 100px 0 30px;
+
+}
+
+.donation-content {
+    line-height: 28px;
+    color: rgb (112, 112, 112, 1);
+
+
+}
+
+.donation-amount {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 60px;
+    margin-top: 25px;
+}
+
+.amount {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 159px;
+    height: 130px;
+    background: #fafafa;
+    border-radius: 5px;
+    margin: 20px 5px 10px;
+    color: #707070;
+
+}
+
+.amount h2 {
+    font-size: 38px;
+}
+
+.amount2 {
+    border: 2px solid #ff5959;
+    background: #ffeeee;
+    color: #ff5959;
+
+
+}
